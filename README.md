@@ -78,11 +78,11 @@ for you.
 Configuration
 -------------
 Errbit configuration is done entirely through environment variables. See
-[configuration](docs/configuration.md)
+[configuration](https://github.com/errbit/errbit/docs/configuration.md)
 
 Deployment
 ----------
-See [notes on deployment](docs/deployment.md)
+See [notes on deployment](https://github.com/errbit/errbit/docs/deployment.md)
 
 Notice Grouping
 ---------------
@@ -102,7 +102,7 @@ Managing apps
 An Errbit app is a place to collect error notifications from your external
 application deployments.
 
-See [apps](docs/apps.md)
+See [apps](https://github.com/errbit/errbit/docs/apps.md)
 
 Authentication
 --------------
@@ -239,7 +239,7 @@ This will ensure that your application stays up to date with any schema changes.
 ### Upgrading errbit from v0.3.0 to v0.4.0
 
 * All configuration is now done through the environment. See
-  [configuration](docs/configuration.md)
+  [configuration](https://github.com/errbit/errbit/docs/configuration.md)
 * Ruby 1.9 and 2.0 are no longer offically supported. Please upgrade to Ruby
   2.1+
 * Errbit now maintains an issue tracker only for github. If you're using
